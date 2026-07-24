@@ -1,7 +1,7 @@
 # SaveXTube FnDepot
 
-SaveXTube 的 fnOS Source 版应用源，同时兼容 FnDepot V2 的
-`fndepot.json` 和旧版客户端使用的 `fnpack.json`。
+SaveXTube 的 fnOS Source 版应用源。根目录同时提供正式协议使用的
+`fndepot.json` 和旧版客户端使用的 `fnpack.json`，两者内容一致。
 
 在 FnDepot 的“应用源管理”中添加：
 

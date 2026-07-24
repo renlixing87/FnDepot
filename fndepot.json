@@ -1,50 +1,19 @@
 {
-  "schema_version": "2.0",
-  "source_info": {
-    "id": "com.renlixing.savextube",
-    "name": "SaveXTube",
-    "author": "renlixing",
-    "homepage": "https://github.com/renlixing87/FnDepot",
-    "description": "SaveXTube fnOS Source 版更新源",
-    "updated_at": "2026-07-24T15:23:00+08:00"
-  },
-  "apps": {
-    "savextube": {
-      "display_name": "SaveXTube",
-      "desc": "面向 NAS 的全平台多媒体下载工具，支持视频、音乐、图片和磁力链接等内容的下载与管理。",
-      "platform": [
-        "x86"
-      ],
-      "categories": [
-        "下载工具",
-        "影音娱乐"
-      ],
-      "icon_url": "./savextube/ICON.PNG",
-      "readme_url": "./savextube/README.md",
-      "homepage": "https://github.com/renlixing87/FnDepot",
-      "repo_url": "https://github.com/renlixing87/FnDepot",
-      "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
-      "maintainer": "renlixing",
-      "maintainer_url": "https://github.com/renlixing87",
-      "distributor": "renlixing",
-      "distributor_url": "https://github.com/renlixing87",
-      "run_as": "package",
-      "install_type": "",
-      "is_docker": false,
-      "service_port": "",
-      "releases": {
-        "0.9.2.3": {
-          "changelog": "新增 fnOS Source 更新源，支持通过 FnDepot 检测并安装新版本。",
-          "updated_at": "2026-07-24T15:23:00+08:00",
-          "packages": {
-            "x86": {
-              "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-0.9.2.3-fnOS-x86_64-source.fpk",
-              "sha256": "fd5de2294644629bfabe8ea2914908c0b4389aa5d6f5398c5e217605c7c90273",
-              "size": 119454691
-            }
-          }
-        }
-      }
-    }
+  "savextube": {
+    "display_name": "SaveXTube",
+    "desc": "面向 NAS 的全平台多媒体下载工具，支持视频、音乐、图片和磁力链接等内容的下载与管理。",
+    "labels": "工具,下载,影音",
+    "platform": [
+      "x86"
+    ],
+    "version": "0.9.2.3",
+    "distributor": "renlixing",
+    "distributor_url": "https://github.com/renlixing87",
+    "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
+    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-0.9.2.3-fnOS-x86_64-source.fpk",
+    "install_type": "存储空间",
+    "size": "113.92",
+    "changelog": "新增 fnOS Source 更新源，支持通过 FnDepot 检测并安装新版本。",
+    "isdocker": "false"
   }
 }
