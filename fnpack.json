@@ -6,13 +6,13 @@
     "platform": [
       "x86"
     ],
-    "version": "0.9.2.8",
+    "version": "0.9.3.6",
     "distributor": "renlixing",
     "distributor_url": "https://github.com/renlixing87",
     "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
-    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-0.9.2.8-fnOS-x86_64-source.fpk",
+    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-0.9.3.6-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
-    "size": "113.94",
+    "size": "117.84",
     "changelog": "性能优化与问题修复。",
     "isdocker": "false"
   }
