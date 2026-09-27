@@ -1,19 +1,19 @@
 {
   "savextube": {
     "display_name": "SaveXTube",
-    "desc": "面向 NAS 的全平台多媒体下载工具，支持视频、音乐、图片和磁力链接等内容的下载与管理。",
+    "desc": "面向 NAS 的全平台多媒体下载工具，支持视频、图片和磁力链接等内容的下载与管理。",
     "labels": "工具,下载,影音",
     "platform": [
       "x86"
     ],
-    "version": "0.9.3.6",
+    "version": "1.0.3",
     "distributor": "renlixing",
     "distributor_url": "https://github.com/renlixing87",
     "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
-    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-0.9.3.6-fnOS-x86_64-source.fpk",
+    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.3-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
-    "size": "117.84",
-    "changelog": "性能优化与问题修复。",
+    "size": "231.19",
+    "changelog": "1.0.3 正式版：支持更多下载平台，性能优化与问题修复。",
     "isdocker": "false"
   }
 }
