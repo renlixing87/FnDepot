@@ -13,7 +13,7 @@
     "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.4-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
     "size": "226.54",
-    "changelog": "1.0.4 更新：新增插件与依赖管理；授权服务迁移至 Keygen CE，并支持释放旧设备授权；fnOS Source 套件修复本机运行数据误打包问题，包体积减少约 8 MB。",
+    "changelog": "1.0.4 更新：新增插件与依赖管理；授权服务迁移至 Keygen CE，并支持释放旧设备授权；修复 fnOS Source 安装包误收录本机依赖、插件状态和 musicdl 环境的问题。",
     "isdocker": "false"
   }
 }
