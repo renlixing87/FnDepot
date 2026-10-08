@@ -6,14 +6,14 @@
     "platform": [
       "x86"
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "distributor": "renlixing",
     "distributor_url": "https://github.com/renlixing87",
     "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
-    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.3-fnOS-x86_64-source.fpk",
+    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.4-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
-    "size": "231.19",
-    "changelog": "1.0.3 更新：新增 Telegram 私密频道订阅；新增轻拟物风格皮肤；新增微信快捷扫码入口；关于页增加联系作者信息；集成 musicdl，支持搜索下载；推荐 cookies 插件提示优化，可点击跳转到对应插件；修复直播录制“开播自动录制”失效问题；直播录制目录改为“主播-日期-内容”格式；修复 B 站订阅下载问题；平台统计拆分为视频与图片统计卡片；Telegram 配置拆分到平台设置；访问密钥中增加快捷指令与浏览器下载链接；代理设置增加开关。",
+    "size": "226.54",
+    "changelog": "1.0.4 更新：新增插件与依赖管理；授权服务迁移至 Keygen CE，并支持释放旧设备授权；fnOS Source 套件修复本机运行数据误打包问题，包体积减少约 8 MB。",
     "isdocker": "false"
   }
 }
