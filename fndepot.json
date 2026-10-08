@@ -13,7 +13,7 @@
     "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.4-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
     "size": "226.54",
-    "changelog": "1.0.4 更新：增加 Facebook 图片下载功能；增加核心插件功能；支持抖音分段图文类型视频下载；切换授权服务器及其它修复。",
+    "changelog": "1.0.4 更新：增加 Facebook 图片下载功能；增加核心插件功能；支持抖音分段图文类型视频下载；切换授权服务器。",
     "isdocker": "false"
   }
 }
