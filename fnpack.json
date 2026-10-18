@@ -13,7 +13,7 @@
     "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.5-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
     "size": "226.56",
-    "changelog": "授权：服务端授权与桌面版规则统一，设备被删后自动重新绑定；永久授权断网可照常使用；被停用时显示原因，试用到期会提示重新申请；可一键重新验证。抖音：4K/2K 分辨率设置在所有下载路径中生效。",
+    "changelog": "- 修复部分抖音链接无法下载的问题。\n- 新增抖音 2K / 4K 视频下载。\n- 修复授权状态异常导致用户需要重新输入激活码的问题。",
     "isdocker": "false"
   }
 }
