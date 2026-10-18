@@ -13,7 +13,7 @@
     "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.5-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
     "size": "226.56",
-    "changelog": "- 修复部分抖音链接无法下载的问题。\n- 新增抖音 2K / 4K 视频下载。\n- 修复授权状态异常导致用户需要重新输入激活码的问题。",
+    "changelog": "新增功能\n\n- 支持抖音 2K / 4K 下载：新增抖音 2K、4K 视频分辨率下载选项。\n\n问题修复\n\n- 修复部分抖音链接无法下载：修正部分抖音链接的解析与下载问题。\n- 修复授权掉线：修复授权状态异常导致用户需要重新输入激活码的问题。",
     "isdocker": "false"
   }
 }
