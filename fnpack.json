@@ -6,14 +6,14 @@
     "platform": [
       "x86"
     ],
-    "version": "1.0.6",
+    "version": "1.0.8",
     "distributor": "renlixing",
     "distributor_url": "https://github.com/renlixing87",
     "bug_report_url": "https://github.com/renlixing87/FnDepot/issues",
-    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.6-fnOS-x86_64-source.fpk",
+    "download_url": "https://download.savextube.com/savextube/savextube-fnos/source/x86_64/SaveXTube-1.0.8-fnOS-x86_64-source.fpk",
     "install_type": "存储空间",
-    "size": "227.60",
-    "changelog": "新增功能\n\n- 支持抖音图文视频下载：新增抖音图文视频下载能力，图文内容可完整保存。\n\n问题修复\n\n- 修复授权状态偶发读取失败：修复有时提示“暂时无法读取授权状态”的问题，授权状态读取失败时自动重试。\n- 修复 Telegram 下发任务不显示：修复 Telegram 下发的下载任务没有出现在任务列表中的问题。\n- 修复 Telegram 回传视频拉伸：修复部分视频回传 Telegram 后被拉宽的问题，按实际显示尺寸回传。\n- 修复画质不可用不自动降级：所选清晰度不存在时自动降级到可用画质，避免下载失败。\n- 修复抖音“版本过低”提示：下载提示不再出现“版本过低，升级后可展示全部信息”的误导文案。\n- 其它 bug 修复：提升整体稳定性。",
+    "size": "237.92",
+    "changelog": "新增功能\n\n- 定期检查更新：在线更新会定期检查新版本（默认每 6 小时），有新版本时顶栏头像周围会发出绿光并弹出更新提示，不必再手动检查；只检查、不会自动安装，是否更新仍由管理员确认。\n- 新版本更新弹窗：弹窗展示官网的更新说明，可选择\"稍后更新\"或\"下次不再提醒\"。\n- 更多平台的 Cookie 在线检测：新增快手、小红书、Facebook、Xvideos 的 Cookie 登录状态检测。\n\n体验优化\n\n- 抖音自动最佳：自动最佳优先选用原画，各清晰度档位选择实际码率最高的版本。\n- Cookie 检测更准确：无法确认登录状态时显示\"无法验证\"及原因，不再直接判为失效。\n- 直播录制历史：网页、安卓、iOS 的直播录制历史可加载全部场次，不再只显示最近 100 场。\n\n问题修复\n\n- 修复 Cookie 误报失效：修复刚更新的 Cookie 被误报为\"登录已失效\"的问题，涉及抖音、快手、YouTube、X、Pornhub 等平台。\n- 修复统计数字偏小：任务页\"已完成\"等统计改为统计全部任务，不再停在 200。\n- 修复翻页与排序：任务、历史、文件页翻页不再跳回第一页；任务、历史、订阅的排序作用于全部数据，而不是当前页。\n- 修复 fnOS 更新入口：fnOS 应用商店版本关闭应用内更新入口，由应用商店负责更新。",
     "isdocker": "false"
   }
 }
